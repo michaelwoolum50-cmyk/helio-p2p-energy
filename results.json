@@ -1,0 +1,466 @@
+{
+  "config": {
+    "households": 6,
+    "days": 2,
+    "seed": 42,
+    "interval_hours": 1.0,
+    "grid_import_price": 0.16,
+    "grid_export_price": 0.04
+  },
+  "intervals": [
+    {
+      "interval": 0,
+      "hour_of_day": 0.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.5637
+    },
+    {
+      "interval": 1,
+      "hour_of_day": 1.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.6471
+    },
+    {
+      "interval": 2,
+      "hour_of_day": 2.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.4449
+    },
+    {
+      "interval": 3,
+      "hour_of_day": 3.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.5034
+    },
+    {
+      "interval": 4,
+      "hour_of_day": 4.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.5858
+    },
+    {
+      "interval": 5,
+      "hour_of_day": 5.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.9672
+    },
+    {
+      "interval": 6,
+      "hour_of_day": 6.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 4.3917
+    },
+    {
+      "interval": 7,
+      "hour_of_day": 7.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 6.5352
+    },
+    {
+      "interval": 8,
+      "hour_of_day": 8.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 3.7531000000000003
+    },
+    {
+      "interval": 9,
+      "hour_of_day": 9.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.6195,
+      "n_trades": 4,
+      "unmatched_ask_kwh": 1.9609,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 10,
+      "hour_of_day": 10.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.3523,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 6.2913,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 11,
+      "hour_of_day": 11.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.3772,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 8.09,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 12,
+      "hour_of_day": 12.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.2857,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 8.8639,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 13,
+      "hour_of_day": 13.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.3506,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 8.5953,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 14,
+      "hour_of_day": 14.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.4611,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 6.5334,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 15,
+      "hour_of_day": 15.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.4803,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 3.7985,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 16,
+      "hour_of_day": 16.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.7992,
+      "n_trades": 4,
+      "unmatched_ask_kwh": 0.4293,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 17,
+      "hour_of_day": 17.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 4.6501
+    },
+    {
+      "interval": 18,
+      "hour_of_day": 18.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 9.2566
+    },
+    {
+      "interval": 19,
+      "hour_of_day": 19.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 11.037700000000001
+    },
+    {
+      "interval": 20,
+      "hour_of_day": 20.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 9.1951
+    },
+    {
+      "interval": 21,
+      "hour_of_day": 21.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 6.844
+    },
+    {
+      "interval": 22,
+      "hour_of_day": 22.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 4.5897
+    },
+    {
+      "interval": 23,
+      "hour_of_day": 23.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 3.0524
+    },
+    {
+      "interval": 24,
+      "hour_of_day": 0.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.5522
+    },
+    {
+      "interval": 25,
+      "hour_of_day": 1.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.5211
+    },
+    {
+      "interval": 26,
+      "hour_of_day": 2.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.3492
+    },
+    {
+      "interval": 27,
+      "hour_of_day": 3.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.4842
+    },
+    {
+      "interval": 28,
+      "hour_of_day": 4.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.5251
+    },
+    {
+      "interval": 29,
+      "hour_of_day": 5.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 2.6818999999999997
+    },
+    {
+      "interval": 30,
+      "hour_of_day": 6.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 4.5706
+    },
+    {
+      "interval": 31,
+      "hour_of_day": 7.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 6.5882000000000005
+    },
+    {
+      "interval": 32,
+      "hour_of_day": 8.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 4.5451
+    },
+    {
+      "interval": 33,
+      "hour_of_day": 9.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.9248,
+      "n_trades": 4,
+      "unmatched_ask_kwh": 0.7596,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 34,
+      "hour_of_day": 10.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.3166,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 3.9584,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 35,
+      "hour_of_day": 11.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.3123,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 6.141,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 36,
+      "hour_of_day": 12.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.2531,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 8.0021,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 37,
+      "hour_of_day": 13.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.4039,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 6.4277,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 38,
+      "hour_of_day": 14.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.3198,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 6.1454,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 39,
+      "hour_of_day": 15.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.4375,
+      "n_trades": 1,
+      "unmatched_ask_kwh": 3.7309,
+      "unmatched_bid_kwh": 0.0
+    },
+    {
+      "interval": 40,
+      "hour_of_day": 16.0,
+      "clearing_price": 0.04,
+      "matched_kwh": 0.7409,
+      "n_trades": 4,
+      "unmatched_ask_kwh": 0.0,
+      "unmatched_bid_kwh": 0.2071
+    },
+    {
+      "interval": 41,
+      "hour_of_day": 17.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 4.5885
+    },
+    {
+      "interval": 42,
+      "hour_of_day": 18.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 9.127600000000001
+    },
+    {
+      "interval": 43,
+      "hour_of_day": 19.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 10.6997
+    },
+    {
+      "interval": 44,
+      "hour_of_day": 20.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 9.4941
+    },
+    {
+      "interval": 45,
+      "hour_of_day": 21.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 6.851100000000001
+    },
+    {
+      "interval": 46,
+      "hour_of_day": 22.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 4.643
+    },
+    {
+      "interval": 47,
+      "hour_of_day": 23.0,
+      "clearing_price": null,
+      "matched_kwh": 0.0,
+      "n_trades": 0,
+      "unmatched_ask_kwh": 0,
+      "unmatched_bid_kwh": 3.137
+    }
+  ],
+  "totals": {
+    "p2p_traded_kwh": 7.435,
+    "grid_import_kwh": 158.583,
+    "grid_export_kwh": 79.728,
+    "total_demand_kwh": 221.83,
+    "total_generation_kwh": 142.974,
+    "self_consumption_pct": 28.5,
+    "p2p_cost_usd": 0.3,
+    "actual_cost_usd": 22.48,
+    "grid_baseline_cost_usd": 23.08,
+    "saved_vs_grid_usd": 0.59
+  },
+  "ledger": {
+    "blocks": 49,
+    "trades": 28,
+    "verification": {
+      "ok": true,
+      "broken_at": null,
+      "reason": "",
+      "blocks": 49
+    }
+  }
+}
